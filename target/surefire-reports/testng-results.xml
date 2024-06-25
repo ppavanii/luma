@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-24T23:01:57 IST" name="Suite" finished-at="2024-06-24T23:02:21 IST" duration-ms="23515">
+    <groups>
+    </groups>
+    <test started-at="2024-06-24T23:01:57 IST" name="CTest" finished-at="2024-06-24T23:02:21 IST" duration-ms="23515">
+      <class name="testcases.TC_001_accountcreation">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testcases.TC_001_accountcreation@1ed4ae0f]" started-at="2024-06-24T23:01:57 IST" name="setup" finished-at="2024-06-24T23:02:08 IST" duration-ms="10526" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyfirstname()[pri:0, instance:testcases.TC_001_accountcreation@1ed4ae0f]" started-at="2024-06-24T23:02:08 IST" name="verifyfirstname" finished-at="2024-06-24T23:02:11 IST" duration-ms="3200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyfirstname -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.TC_001_accountcreation@1ed4ae0f]" started-at="2024-06-24T23:02:11 IST" name="teardown" finished-at="2024-06-24T23:02:11 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.TC_001_accountcreation -->
+      <class name="testcases.TC_002_sigin">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testcases.TC_002_sigin@53fe15ff]" started-at="2024-06-24T23:02:11 IST" name="setup" finished-at="2024-06-24T23:02:17 IST" duration-ms="6317" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="sigging()[pri:0, instance:testcases.TC_002_sigin@53fe15ff]" started-at="2024-06-24T23:02:17 IST" name="sigging" finished-at="2024-06-24T23:02:20 IST" duration-ms="3091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sigging -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.TC_002_sigin@53fe15ff]" started-at="2024-06-24T23:02:20 IST" name="teardown" finished-at="2024-06-24T23:02:21 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.TC_002_sigin -->
+    </test> <!-- CTest -->
+  </suite> <!-- Suite -->
+</testng-results>

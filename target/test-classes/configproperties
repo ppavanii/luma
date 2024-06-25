@@ -1,0 +1,16 @@
+appURL=https://magento.softwaretestingboard.com
+name=sneha
+Lname=arjun
+email=Sneha.arjun@gmail.com
+password=Sneha@123
+confirmpassword=Sneha@123
+fname=sneha
+lname=arjun
+street=banjara hills
+city=hyderabad
+postal=507223
+state=Telangana
+country=India
+phonenumber=1234556789
+
+execution_env="remote"
